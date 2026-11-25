@@ -1,0 +1,8 @@
+{
+    "idf.currentSetup": "/home/r0ssett0/.espressif/v5.3.5/esp-idf",
+    "idf.port": "/dev/ttyUSB0",
+    "idf.customExtraVars": {
+        "IDF_TARGET": "esp32"
+    },
+    "idf.flashType": "UART"
+}

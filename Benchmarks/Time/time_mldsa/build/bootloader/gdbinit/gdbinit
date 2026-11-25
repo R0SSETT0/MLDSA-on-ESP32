@@ -1,0 +1,2 @@
+source /home/r0ssett0/github/PQC-on-ESP32/Benchmarks/Time/time_mldsa/build/bootloader/gdbinit/symbols
+source /home/r0ssett0/github/PQC-on-ESP32/Benchmarks/Time/time_mldsa/build/bootloader/gdbinit/connect
